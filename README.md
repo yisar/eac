@@ -1,5 +1,5 @@
-# njc
-> Nano Javascript compiler
+# pec
+> Petit ESM compiler, pronounced [pæk], like "pack"
 
 - Simplest bundler algorithm
 - Smallest JavaScript compiler
