@@ -1,5 +1,5 @@
 # pec
-> Petit ESM compiler, pronounced [pæk], like "pack"
+> Petit ESM compiler, pronounced [pek], similar to "pack"
 
 - Simplest bundler algorithm
 - Smallest JavaScript compiler
