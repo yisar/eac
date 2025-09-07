@@ -1,5 +1,5 @@
-# ijc
-> Tiny Javascript compiler
+# njc
+> Nano Javascript compiler
 
 - Simplest bundler algorithm
 - Smallest JavaScript compiler
